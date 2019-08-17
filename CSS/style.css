@@ -1,7 +1,11 @@
 header {
-	background-image: url("/Images/colors.png");
 	background-size: 100% 100%;
-	color: white;
+	background-color: white
+}
+
+.jumbotron {
+  background-image: url("https://i.pinimg.com/originals/bd/83/2d/bd832d3455192df2488738dcca5e02fd.png");
+  background-size: cover;
 }
 
 h1 {
